@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{12280D5A-A18A-4344-A05D-2F3966EFA78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonToGrpcTranscodingApi", "JsonToGrpcTranscodingApi\JsonToGrpcTranscodingApi.csproj", "{CE968564-7F3F-4592-8C4E-4381CF47AF80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE968564-7F3F-4592-8C4E-4381CF47AF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE968564-7F3F-4592-8C4E-4381CF47AF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE968564-7F3F-4592-8C4E-4381CF47AF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE968564-7F3F-4592-8C4E-4381CF47AF80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE968564-7F3F-4592-8C4E-4381CF47AF80} = {12280D5A-A18A-4344-A05D-2F3966EFA78B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ED4EB15-81BE-4ED4-88DC-AF35B54CD38E}
+	EndGlobalSection
+EndGlobal
